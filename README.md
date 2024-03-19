@@ -1,8 +1,12 @@
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1383.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1383.gif"  />
+</div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/pradhyumna03/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -13,13 +17,13 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CNS-PRADHYUMNA.CNS-PRADHYUMNA&"  />
 </div>
 
 ###
 
-<h1 align="center"><Hello World.../></h1>
+<h1 align="left"><Hello World.../></h1>
 
 ###
 
